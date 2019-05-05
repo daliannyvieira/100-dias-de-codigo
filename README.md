@@ -15,6 +15,7 @@ https://inspiradanacomputacao.com/blog/aprenda-a-programar-com-desafio-100-dias-
 
 Além da motivação muito nobre proposta pelo InspirAda eu estou vendo no desafio uma boa forma de explorar coisas que eu tenho curiosidade. Vou documentar aqui o meu backlog do desafio. :)
 
+### Semana 01
 - [ ] [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/) - Pure React, React Tooling, Rendering Data, Routing, Async UI :movie_camera:
 - [ ] [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/) - Forms, Context, Portals :movie_camera:
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - Pure Functions, High Order Functions :movie_camera:
@@ -22,6 +23,8 @@ Além da motivação muito nobre proposta pelo InspirAda eu estou vendo no desaf
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - Clojure :movie_camera:
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - Asynchronous JavaScript :movie_camera:
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - OOP :movie_camera:
+
+### Lista completa
 - [ ] [Algoritmos e Estruturas de Dados em Javascript](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms) - Livro :orange_book:
 - [ ] [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/) - Hello Go :orange_book: :free:
 - [ ] [How I Built an API with Mux, Go, PostgreSQL, and GORM](https://dev.to/aspittel/how-i-built-an-api-with-mux-go-postgresql-and-gorm-5ah8) - Simple API using Go :orange_book: :free:
