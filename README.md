@@ -24,7 +24,10 @@ Além da motivação muito nobre proposta pelo InspirAda eu estou vendo no desaf
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - Asynchronous JavaScript :movie_camera:
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - OOP :movie_camera:
 
-### Semana 02: Intro Go <3
+#### I don't know when
+- [ ] [Algoritmos e Estruturas de Dados em Javascript](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms) - Livro :orange_book:
 - [ ] [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/) - Hello Go :orange_book:
 - [ ] [How I Built an API with Mux, Go, PostgreSQL, and GORM](https://dev.to/aspittel/how-i-built-an-api-with-mux-go-postgresql-and-gorm-5ah8) - Simple API using Go :orange_book:
-- [ ] [Python Intermediate by Nina <3](https://frontendmasters.com/courses/intermediate-python/) - Full Workshop :movie_camera:
+- [ ] [Curso de Go](https://www.udemy.com/cursodego/) - Curso :movie_camera:
+- [ ] [Python Intermediate by Nina <3](https://frontendmasters.com/courses/intermediate-python/) - Workshop :movie_camera:
+- [ ] [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Livro :orange_book:
