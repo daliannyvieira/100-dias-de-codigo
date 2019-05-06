@@ -17,7 +17,7 @@ Além da motivação muito nobre proposta pelo InspirAda eu estou vendo no desaf
 
 ### Semana 01
 - [x] [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/) - Pure React, React Tooling, Rendering Data, Routing, Async UI :movie_camera:
-- [ ] [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/) - Forms, Context, Portals :movie_camera:
+- [x] [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/) - Forms, Context, Portals :movie_camera:
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - Pure Functions, High Order Functions :movie_camera:
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - Callbacks and Higher Order Functions :movie_camera:
 - [ ] [Javascript hard parts](https://frontendmasters.com/courses/javascript-hard-parts/) - Clojure :movie_camera:
